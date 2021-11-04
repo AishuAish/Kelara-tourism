@@ -9,7 +9,7 @@
 .tour-logo{
     margin-left: 0;
     margin-top: 0;
-    height: 3em;
+    height: 5em;
 }
 .tour-head h1{
     margin-top: -1em;
@@ -47,11 +47,11 @@
     width: 75%;
 }
 .about-kerala{
-    border: 5px solid darkgrey;
+    border: 5px solid lightgreen;
     border-radius: 25px;
     margin-left: 25px;
     margin-right: 25px;
-    background-color: darkgrey;
+    background-color: lightgreen;
     text-align: center;
     line-height: 1.5;
     word-spacing: 3px;
@@ -114,7 +114,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .form-login{
-    margin-top: 2em;  
+    margin-top: 2em;   
 }
 .form-mp{
     margin: 0px 10px 0px 10px;
@@ -126,15 +126,18 @@
 }
 
 .form-mp.success input{
+.form-mp.success input {
     border-color: green;
 }
 
 .form-mp.error input{
     border-color:red;
+.form-mp.error input {
     border-color: red;
 }
 
 .form-login small{
+.form-mp small{
     visibility: hidden;
     position: absolute;
 }
@@ -146,6 +149,7 @@
 }
 
 .form-mp.success small{
+.form-mp.success small {
     color: green;
     visibility: hidden;
 }
@@ -205,6 +209,7 @@
 /* Login Page Styling ENDS */
 /* Signup page styling STARTS here  */
 .signup-body{
+    background-image: url(../images/signupimg.jpeg);
     background-size: cover;
 }
 .signup-form{
@@ -237,7 +242,6 @@
 
 .form-controls input{
     width: 125%;
-    
 }
 
 .form-controls.success input{
@@ -249,11 +253,11 @@
 .form-signup small{
     visibility: hidden;
     position: absolute;
-    /* bottom: 0; */
-    /* left: 0; */
+    /* bottom: 0;
+    left: 0; */
 }
 
-/* .form-controls.error small{
+.form-controls.error small{
     color: red;
     visibility: visible;
 }
@@ -277,7 +281,7 @@
 
 .progress-bar-success {
     background-color: green;
-} */
+}
 
 /* .show-pass{
     position: absolute;
@@ -297,7 +301,6 @@
 .form-signup button{
     padding: 10px;
     margin-left: 15px;
-    background-color: dodgerblue;
 }
 
 
