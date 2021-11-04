@@ -114,7 +114,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .form-login{
-    margin-top: 2em;   
+    margin-top: 2em; 
 }
 .form-mp{
     margin: 0px 10px 0px 10px;
@@ -298,6 +298,7 @@
 .form-signup button{
     padding: 10px;
     margin-left: 15px;
+    background-color: #3B5998;
 }
 
 
