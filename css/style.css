@@ -94,7 +94,7 @@
 }
 /* Login Page styling STARTS here*/
 .login-body{
-    background-image: url(../images/loginbg\ \(2\).png);
+    background-image: url(/Kelara-tourism/image/istockphoto-697120006-612x612.jpg);
     background-size: cover;
 }
 .login-form{
@@ -206,7 +206,7 @@
 /* Login Page Styling ENDS */
 /* Signup page styling STARTS here  */
 .signup-body{
-    background-image: url(../images/signupimg.jpeg);
+    background-image: url(/Kelara-tourism/image/istockphoto-697120006-612x612.jpg);
     background-size: cover;
 }
 .signup-form{
