@@ -126,18 +126,16 @@
 }
 
 .form-mp.success input{
-.form-mp.success input {
     border-color: green;
 }
 
 .form-mp.error input{
     border-color:red;
-.form-mp.error input {
+
     border-color: red;
 }
 
 .form-login small{
-.form-mp small{
     visibility: hidden;
     position: absolute;
 }
@@ -149,7 +147,6 @@
 }
 
 .form-mp.success small{
-.form-mp.success small {
     color: green;
     visibility: hidden;
 }
